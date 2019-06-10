@@ -7,6 +7,7 @@ Swagger is available with api documentation on index page, example http://127.0.
 ## Installation guideline with pipenv
  - Create your virtual environment with packages: `pipenv install`
  - Syncdb: `python manage.py migrate`
+ - Run project: `python manage.py runserver`
  
  ## Run tests
  - `python manage.py test`
